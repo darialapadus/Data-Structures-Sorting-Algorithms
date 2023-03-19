@@ -1,0 +1,3 @@
+C:/Users/daria/OneDrive/Desktop/QuickSort_final/cmake-build-debug/CMakeFiles/QuickSort_final.dir
+C:/Users/daria/OneDrive/Desktop/QuickSort_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daria/OneDrive/Desktop/QuickSort_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

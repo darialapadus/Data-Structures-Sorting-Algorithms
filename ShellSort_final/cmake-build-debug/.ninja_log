@@ -1,0 +1,13 @@
+# ninja log v5
+1	556	7008438517788519	CMakeFiles/ShellSort_final.dir/main.cpp.obj	7f1d9a4e9a5ecc54
+558	655	7008438518763418	ShellSort_final.exe	256eb82211193f6c
+3	2130	7009316356583970	CMakeFiles/ShellSort_final.dir/main.cpp.obj	1cecf5c1c520f2a4
+2132	2413	7009316359396042	ShellSort_final.exe	256eb82211193f6c
+4	646	7009343074179215	CMakeFiles/ShellSort_final.dir/main.cpp.obj	1cecf5c1c520f2a4
+647	773	7009343075414825	ShellSort_final.exe	256eb82211193f6c
+5	677	7009351246144873	CMakeFiles/ShellSort_final.dir/main.cpp.obj	1cecf5c1c520f2a4
+678	794	7009351247279704	ShellSort_final.exe	256eb82211193f6c
+3	645	7009352269850320	CMakeFiles/ShellSort_final.dir/main.cpp.obj	1cecf5c1c520f2a4
+646	767	7009352271030531	ShellSort_final.exe	256eb82211193f6c
+4	641	7009352443198046	CMakeFiles/ShellSort_final.dir/main.cpp.obj	1cecf5c1c520f2a4
+642	756	7009352444319854	ShellSort_final.exe	256eb82211193f6c

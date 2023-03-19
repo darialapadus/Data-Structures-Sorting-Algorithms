@@ -1,0 +1,19 @@
+# ninja log v5
+3	499	7008465689021116	CMakeFiles/MergeSort_final.dir/main.cpp.obj	9cb84bab5b7f0221
+499	587	7008465689879896	MergeSort_final.exe	a3452553b696e484
+4	570	7009341541925728	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+571	750	7009341542967007	MergeSort_final.exe	a3452553b696e484
+4	710	7009363022553163	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+711	862	7009363024040652	MergeSort_final.exe	a3452553b696e484
+4	780	7009363195555945	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+781	989	7009363197237596	MergeSort_final.exe	a3452553b696e484
+4	666	7009368585186420	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+667	817	7009368586655627	MergeSort_final.exe	a3452553b696e484
+4	674	7009368866345119	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+675	832	7009368867894449	MergeSort_final.exe	a3452553b696e484
+3	891	7009396996488021	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+891	1070	7009396998251557	MergeSort_final.exe	a3452553b696e484
+3	1555	7009397288798945	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+1556	1842	7009397291638747	MergeSort_final.exe	a3452553b696e484
+4	613	7009397464131090	CMakeFiles/MergeSort_final.dir/main.cpp.obj	8eaa9d330644ee20
+614	716	7009397465118310	MergeSort_final.exe	a3452553b696e484
